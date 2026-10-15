@@ -1,0 +1,9 @@
+{
+  "id": "xdg-open-links",
+  "name": "XDG Open Links",
+  "version": "0.1.0",
+  "minAppVersion": "1.4.0",
+  "description": "Open every URI link through xdg-open.",
+  "author": "mispasted",
+  "isDesktopOnly": true
+}
